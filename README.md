@@ -54,10 +54,10 @@ npm run build
 php artisan key:generate
 php artisan migrate:fresh --seed
 
-/*For any route problems*/
+/** For any route problems **/
 php artisan optimize
 
-/*For view problems*/
+/** For view problems **/
 php artisan view:cache
 php artisan view:clear
 
