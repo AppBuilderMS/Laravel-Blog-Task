@@ -21,8 +21,8 @@
 - Live time validation using livewire.
 - Using helper functions from the helper functions file.
 - Using seeder for dummy data.
-- Delete post's comments with post delete becuase of relations.
-- Delet user's sposts and comments with user delete becuase of relations.
+- Delete post's comments with post delete because of relations.
+- Delete user's posts and comments with user delete because of relations.
 
 
 ## Quickstart
