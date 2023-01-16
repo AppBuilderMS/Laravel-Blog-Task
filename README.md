@@ -1,6 +1,9 @@
 
 <p align="center"><img src="logo.svg" width="300" alt="logo"></p>
 
+![Laravel-Blog-Task](https://user-images.githubusercontent.com/109177230/212639817-4e4c4bb5-16d3-4106-ad6f-4a05752d1df1.png)
+
+
 
 # About Laravel-Blog-Task
 
