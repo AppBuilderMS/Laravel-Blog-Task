@@ -1,0 +1,19 @@
+#header.header-scrolled {
+    background: rgb(30, 41, 59, 0.9);
+}
+
+.back-to-top {
+    background: #0891b2;
+}
+.back-to-top:hover {
+    background: #f59e0b;
+}
+
+.line-mf {
+    background-color: #0891b2;
+}
+
+footer {
+    text-align: center;
+    color: #cbd5e1;
+}
