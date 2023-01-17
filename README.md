@@ -23,6 +23,7 @@
 - Using seeder for dummy data.
 - Delete post's comments with post delete because of relations.
 - Delete user's posts and comments with user delete because of relations.
+- Make custom 404 and 403 error page.
 
 
 ## Quickstart
@@ -63,7 +64,7 @@ php artisan view:clear
 
 ````
 
-- Admin mail:  admin@admin
+- Admin mail:  admin@admin.com
 - Passwords for admin and all users:  password
 - After login, you will be redirected to the blog home page and the nav bar will contain a dropdown link with sub links (dashboard link and logout link).
 
