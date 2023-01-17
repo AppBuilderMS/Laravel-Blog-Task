@@ -20,8 +20,10 @@ class Single extends Component
     public function mount($id)
     {
         $this->post = Post::findOrFail($id);
-        $this->user_id = auth()->user()->id;
         $this->post_id = $this->post->id;
+        if(auth()->user()){
+            $this->user_id = auth()->user()->id;
+        }
     }
 
     public function updated($fields)
