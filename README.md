@@ -34,7 +34,7 @@
 ````
 composer install
 
-Add herperFunctions file to composer.json like that:
+Add helperFunctions file to composer.json like that:
 
 "autoload": {
     "psr-4": {

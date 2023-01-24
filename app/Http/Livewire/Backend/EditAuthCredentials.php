@@ -67,7 +67,7 @@ class EditAuthCredentials extends Component
     public function render()
     {
         $breadcrumbs = [
-            ['name' => 'Dashboard', 'link' => route('admin.dashboard')],
+            ['name' => 'Dashboard', 'link' => route('dashboard.dashboard')],
             ['name' => 'Edit Auth Credentials'],
         ];
         $pageTitle = 'Edit Auth Credentials';
