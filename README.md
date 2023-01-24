@@ -34,6 +34,21 @@
 ````
 composer install
 
+Add helperFunctions file to composer.json like that:
+
+"autoload": {
+    "psr-4": {
+        "App\\": "app/",
+        "Database\\Factories\\": "database/factories/",
+        "Database\\Seeders\\": "database/seeders/"
+    },
+    "files": [
+        "App/Http/helperFunctions.php"
+    ]
+},
+    
+composer dump-autoload
+
 npm install
 npm run build
 
