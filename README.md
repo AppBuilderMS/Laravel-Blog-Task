@@ -68,7 +68,8 @@ php artisan view:clear
 - Passwords for admin and all users:  password
 - After login, you will be redirected to the blog home page and the nav bar will contain a dropdown link with sub links (dashboard link and logout link).
 
-
+## Screenshots
+### For more screenshots [here](screenshots/SCREENSHOTS.md).
 
 
 
